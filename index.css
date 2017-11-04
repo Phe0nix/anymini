@@ -45,6 +45,29 @@ textarea {
     transition: 0.2s linear;
 }
 
+.footer {
+    background: #333;
+    padding: 15px 4px;
+    text-align: center;
+    color: #fff;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer a {
+    color: #333;
+    text-decoration: none;
+    background: #fff;
+    padding: 3px 7px;
+    margin: 4px;
+}
+
 @media screen and (max-width: 600px) {
     .intro {
         width: 100%;
@@ -56,6 +79,14 @@ textarea {
     textarea,
     button {
         font-size: 16px;
+    }
+    .footer {
+        position: relative;
+        margin-top: 15px;
+    }
+    .footer a {
+        margin: 6px 4px;
+        display: inline-block
     }
     .heading {
         width: 100%;
