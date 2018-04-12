@@ -1,3 +1,5 @@
+// AnyMini script start form here
+
 var notMini = document.querySelector(".notMini"),
     mini = document.querySelector(".mini"),
     result = '';
@@ -27,3 +29,5 @@ notMini.addEventListener("keyup", function(e) {
 mini.onclick = function() {
     this.setSelectionRange(0, this.value.length);
 };
+
+// AnyMini script ends here
