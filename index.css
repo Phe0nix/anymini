@@ -120,7 +120,7 @@ textarea {
         padding-left: 3px;
         padding-right: 3px;
     }
-    textarea/*, button { */
+    textarea/*, button*/ { 
         font-size: 16px;
     }
     .footer {
