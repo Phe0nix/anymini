@@ -15,7 +15,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-.button{
+/* .button{
   text-align: center;
   margin-bottom: 20px;
 }
@@ -58,7 +58,7 @@ a.button span {
     display: block;
     height: 23px;
     padding-left: 35px;
-}
+} 
 
 button {
     display: inline-block;
@@ -68,7 +68,7 @@ button {
     padding: 10px 14px;
     cursor: pointer;
     margin-left: 4px;
-}
+}*/
 
 textarea {
     display: block;
@@ -120,8 +120,7 @@ textarea {
         padding-left: 3px;
         padding-right: 3px;
     }
-    textarea,
-    button {
+    textarea/*, button { */
         font-size: 16px;
     }
     .footer {
