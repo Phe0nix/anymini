@@ -15,50 +15,6 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-/* .button{
-  text-align: center;
-  margin-bottom: 20px;
-}
-.button a.button {
-    display: inline-block;
-    padding: 12px 30px;
-    margin-right: 14px;
-    font-size: 15px;
-  text-decoration: none;
-    font-weight: bold;
-    line-height: 25px;
-    color: #303030;
-    background: #fdfdfd;
-    background: -moz-linear-gradient(top, #fdfdfd 0%, #f2f2f2 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fdfdfd), color-stop(100%, #f2f2f2));
-    background: -webkit-linear-gradient(top, #fdfdfd 0%, #f2f2f2 100%);
-    background: -o-linear-gradient(top, #fdfdfd 0%, #f2f2f2 100%);
-    background: -ms-linear-gradient(top, #fdfdfd 0%, #f2f2f2 100%);
-    background: linear-gradient(top, #fdfdfd 0%, #f2f2f2 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 );
-    border-top: solid 1px #cbcbcb;
-    border-right: solid 1px #b7b7b7;
-    border-bottom: solid 1px #b3b3b3;
-    border-left: solid 1px #b7b7b7;
-    border-radius: 30px;
-    -webkit-box-shadow: 10px 10px 5px #888;
-    -moz-box-shadow: 10px 10px 5px #888;
-    box-shadow: 0px 1px 5px #e8e8e8;
-    -moz-border-radius: 30px;
-    -webkit-border-radius: 30px;
-}
-#view-on-github span {
-    background: transparent url(https://phe0nix.github.io/assets/images/octocat-icon.png) 0 50% no-repeat;
-}
-#home span {
-    background: transparent url(https://avatars0.githubusercontent.com/u/9951055) 1px 50% no-repeat;
-  background-size: 20px;
-}
-a.button span {
-    display: block;
-    height: 23px;
-    padding-left: 35px;
-} */
 
 button {
     display: inline-block;
