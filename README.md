@@ -4,3 +4,4 @@ Minify Everything. Whether it's a code, text or whatever, just put it in the tex
 
 See the demo here - [AnyMini](https://phe0nix.github.io/anymini/)
 
+
