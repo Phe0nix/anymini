@@ -2,7 +2,7 @@
 
 AnyMini is a lightweight browser tool to minify text or code instantly.
 
-It now includes a modern responsive interface, smart minification modes, live compression stats, and export utilities.
+It features a modern responsive interface, smart minification modes, live compression stats, and export utilities.
 
 See the demo here - [AnyMini](https://phe0nix.github.io/anymini/)
 
